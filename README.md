@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sulagna</h1>
 <p align="center">
   <a href="https://github.com/SulagnaMahato">
-    <img src="hi.gif" width="200px" height="150px" align="center" />
+    <img src="hi.gif" width="250px" height="150px" align="center" />
   </a>
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
